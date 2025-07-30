@@ -1,4 +1,5 @@
 -- Consulta para identificar os 10 produtos com maior volume de vendas no banco Contoso
+USE ContosoRetailDW
 
 SELECT TOP 10 
     p.ProductName AS Nome_Produto
@@ -11,4 +12,6 @@ JOIN DimProduct P ON F.ProductKey = P.ProductKey
 GROUP BY P.ProductName
 
 ORDER BY Quantidade_Vendida DESC
+
+-- fazendo um pequeno teste 14:20
 
