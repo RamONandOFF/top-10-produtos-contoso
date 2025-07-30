@@ -13,5 +13,3 @@ GROUP BY P.ProductName
 
 ORDER BY Quantidade_Vendida DESC
 
--- fazendo um pequeno teste 14:20
-
