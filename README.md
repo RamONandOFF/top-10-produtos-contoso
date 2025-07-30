@@ -9,4 +9,4 @@ Identificar os 10 produtos com maior volume de vendas no banco de dados Contoso,
 - Comandos SQL: `SELECT`, `JOIN`, `GROUP BY`, `ORDER BY`, `TOP`
 
 ## 📊 Resultado
-![Resultado da Consulta](imagens/print_resultado.jpg)
+![Resultado da Consulta](imagens/print_resultado.JPG)
